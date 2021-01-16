@@ -1,0 +1,7 @@
+download nodejs
+
+then install path npm in path :
+
+C:\Users\computer\AppData\Roaming\npm
+
+C:\Program Files\nodejs

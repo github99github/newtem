@@ -1,0 +1,7 @@
+download git
+
+##add git in your path :
+C:\Program Files\Git
+
+# if no uplade use this :
+git push origin master --force
