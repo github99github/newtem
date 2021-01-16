@@ -7,7 +7,8 @@ C:\Program Files\Git
 
 # if no uplade use this :
 @ git status --> is see your job 
-@ git log to see all commit 
+@ git log --> to see all commit
+@ git reset HEAD~1  --> to delete last commit 
 ====
 @ git init --> create initialize the repostoriy 
 @ git add * --> is all adds   or   git add readme.md  --> is add the one file 
