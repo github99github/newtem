@@ -1,14 +1,16 @@
 install gulp : 
 
-npm install --global gulp-cli
+    npm install --global gulp-cli
 
- npx mkdirp my-project
- cd my-project
+      npx mkdirp my-project
+      cd my-project
 
 npm init
 
-npm install --save-dev gulp
+    npm install --save-dev gulp
 
+@install still hte gulpjs is :
+npm install gulp@3.9.1 --save
 
 
 create gulpfile.js :
